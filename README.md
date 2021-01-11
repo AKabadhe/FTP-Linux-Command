@@ -1,1 +1,1 @@
-# FTP-Linux-Command
+FTP-COMMAND
